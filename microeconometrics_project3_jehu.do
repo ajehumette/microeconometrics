@@ -1,6 +1,6 @@
 *----------------------------------------------------------------------------
 *Programming: Jehu
-*Purpose: Homework 3 Microeconometrics
+*Purpose: Project 3 Microeconometrics
 *---------------------------------------------------------------------------
 
 
